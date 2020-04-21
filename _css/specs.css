@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+p {
+    font-family: sans-serif;
+    font-size: 15pt;
+}
+section#conteudo {
+    width:  1000px;
+    margin: auto;
+}
+
+section#conteudo map area{
+    outline: none;
+
+}
+
+section#corpo-full p{
+    
+    font-family: sans-serif;
+    font-size: 13pt;
+
+}
+
+iframe#frame-spec {
+    width: 395px;
+    height: 280px;
+    border: none;
+    overflow: hidden;
+    
+}
+
