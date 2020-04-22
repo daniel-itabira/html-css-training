@@ -1,7 +1,11 @@
-# html-css-training
-Projeto final sobre estudos realizado em HTML5 e CSS3.
+# Construção de um WebSite
+**Projeto estudos realizado em HTML5 e CSS3.**
 
-Baseado nas aulas ministradas pelo Prof. Gustavo Guanabara github.com/gustavoguanabara
+Tecnologias utilizadas:
 
-21/01/2020.
+- HTML5
+- CSS 3
+- JavaScript
+
+- [x] Baseado nas aulas ministradas pelo Prof. Gustavo Guanabara github.com/gustavoguanabara
 
